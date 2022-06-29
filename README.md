@@ -1,10 +1,10 @@
-### Hi there 👋, my name is Hasan
+## Hi there 👋, my name is Hasan
 #### I am a mern stack developer
-![I am a mern stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a mern stack developer](https://github.com/hasan-mia/hasan-mia/blob/main/hasan-banner.png)
 
-Here are some ideas to get you started:
+#### Skills and Experience:
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasan-mia&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasan-mia&show_icons=true&theme=radical)
+ -->
