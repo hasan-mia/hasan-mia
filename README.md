@@ -1,7 +1,6 @@
-### Hi there 👋
-
-<!--
-**hasan-mia/hasan-mia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Hasan
+#### I am a mern stack developer
+![I am a mern stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasan-mia&show_icons=true&theme=radical)
