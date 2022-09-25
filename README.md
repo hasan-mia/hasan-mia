@@ -1,8 +1,9 @@
+(https://www.canva.com/design/DAFNMEU3KqI/P22yk0KytjPZoVzqzn0zTw/view?utm_content=DAFNMEU3KqI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 # Hi there 👋, my name is Hasan
 ### I am a mern stack developer
-![I am a mern stack developer](https://github.com/hasan-mia/hasan-mia/blob/main/hasan-banner.png)
+![I am a mern stack developer]
 
-<!-- -## Skills and Experience:
+## Skills and Experience:
  🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -11,7 +12,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- -->
 ## Skills and Experience:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jquery.svg' alt='jquery' height='40'>](#) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg' alt='redux' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/next-dot-js.svg' alt='next-dot-js' height='40'>](#) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>](#) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>](#)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg' alt='laravel' height='40'>]( #)  
 
