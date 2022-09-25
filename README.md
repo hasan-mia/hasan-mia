@@ -1,7 +1,7 @@
-
+![I am a mern stack developer](https://github.com/hasan-mia/hasan-mia/blob/main/hasan-linkedin.png)
 # Hi there 👋, my name is Hasan
 ### I am a mern stack developer
-![I am a mern stack developer](https://www.canva.com/design/DAFNMEU3KqI/P22yk0KytjPZoVzqzn0zTw/view?utm_content=DAFNMEU3KqI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 
 ## Skills and Experience:
  🔭 I’m currently working on ...
