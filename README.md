@@ -18,12 +18,34 @@
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/17Q8NaF9QjOYHWWaMmcanM76ArxjMijvP/view?usp=sharing)
 
+
+## 📈 Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasan-mia&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-mia&hide_border=true&theme=radical" />
+</p>
+
+
+## 🔝 Most used languages
+
+<p align="center">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-mia&layout=compact&hide_border=true&theme=radical" />
+</p>
+
 <h3 align="left">Skill & Experience:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,tailwind,figma,javascript,react,nodejs,express,nodejs,mongodb,jquery,vuejs,firebase,jest,php,wordpress,laravel,mysql,linux, winddows,heroku,docker,c,vim" />
   </a>
 </p>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasan-mia&show_icons=true&theme=radical)
+ -->
+### 💻 Workspace
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/endpoint?color=red&label=ubuntu&logo=ubuntu&style=for-the-badge)
 
 <h3 align="left">Reach me:</h3>
 <p align="left">
@@ -34,6 +56,3 @@
 <!--<a href="https://instagram.com/hasan-mia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasanmia" height="30" width="40" /></a>-->
 <a href="https://discord.gg/hasanmia#0118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hasanmia" height="40" width="40" /></a>
 </p>
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasan-mia&show_icons=true&theme=radical)
- -->
