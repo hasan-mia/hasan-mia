@@ -1,6 +1,6 @@
 ![I am a mern stack developer](https://github.com/hasan-mia/hasan-mia/blob/a4f041591e52d6c391c24880c44bb648447c0b1e/hasan-mia-cover.jpg)
 <h1 align="center">Hi 👋,  My name is Hasan</h1>
-<h3 align="center">MERN-Stack developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-mia&style=flat-square" alt="hasan-mia" /> </p>
 
@@ -8,11 +8,11 @@
 
 <!--<p align="left"> <a href="https://twitter.com/mazharuldev" target="blank"><img src="https://img.shields.io/twitter/follow/mazharuldev?logo=twitter&style=for-the-badge" alt="hasanmia" /></a> </p>-->
 
-- 🌱 I’m currently learning **NextJS, Mongoose, Typescript**
+- 🌱 I’m currently working **Laravel,Django**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://hasanmia.vercel.app/)
 
-- 💬 Ask me about **ReactJs**
+- 💬 Ask me about **ReactJS,NextJS,NodeJS,Express,Prisma,Mongoose,MySQL,React-Native**
 
 - 📫 How to reach me **info.hasanmiah@gmail.com**
 
