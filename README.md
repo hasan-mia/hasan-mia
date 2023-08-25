@@ -1,4 +1,4 @@
-![I am a mern stack developer](https://github.com/hasan-mia/hasan-mia/blob/main/hasan-mia-cover.png)
+![I am a mern stack developer](https://github.com/hasan-mia/hasan-mia/blob/a4f041591e52d6c391c24880c44bb648447c0b1e/hasan-mia-cover.jpg)
 <h1 align="center">Hi 👋,  My name is Hasan</h1>
 <h3 align="center">MERN-Stack developer</h3>
 
