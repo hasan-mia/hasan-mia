@@ -1,3 +1,4 @@
+<div style="background-color: #3498db; padding: 20px; border-radius: 8px;">
 ![I am a mern stack developer](https://github.com/hasan-mia/hasan-mia/blob/a4f041591e52d6c391c24880c44bb648447c0b1e/hasan-mia-cover.jpg)
 <h1 align="center">Hi 👋,  My name is Hasan</h1>
 <h3 align="center">MERN-Stack developer</h3>
@@ -56,3 +57,4 @@
 <!--<a href="https://instagram.com/hasan-mia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasanmia" height="30" width="40" /></a>-->
 <a href="https://discord.gg/hasanmia#0118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hasanmia" height="40" width="40" /></a>
 </p>
+</div>
