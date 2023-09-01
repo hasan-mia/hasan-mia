@@ -18,7 +18,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=hasan-mia&theme=dark" alt="hasanmia" width="300" height="200" />
   </a>
 </div> -->
-## 🔝 Most used languages & 📈 Stats
+<h4 align="left"> 🔝 Most used languages & 📈 Stats </h4>
 <p align="left">
   <img width="33%" src="https://github-readme-stats.vercel.app/api?username=hasan-mia&show_icons=true&hide_border=true&theme=dark" />
   <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-mia&hide_border=true&theme=dark" />
