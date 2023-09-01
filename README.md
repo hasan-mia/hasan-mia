@@ -40,7 +40,7 @@
 <h4 align="left">Reach me</h4>
 <p align="left">
 <a href="https://twitter.com/devhasanmia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasanmia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hasan-mia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanmia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-hasan-mia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdhasanmia" height="30" width="40" /></a>
 <!--<a href="https://stackoverflow.com/users/18386206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hasanmia" height="30" width="40" /></a>-->
 <a href="https://fb.com/dev.hasanrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasanmia" height="30" width="40" /></a>
 <!--<a href="https://instagram.com/hasan-mia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasanmia" height="30" width="40" /></a>-->
