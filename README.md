@@ -1,13 +1,13 @@
 ![I am a mern stack developer](https://github.com/hasan-mia/hasan-mia/blob/3cb5a9ae3de1679b85018826b5614745d1853c53/hasan.jpg)
 <h3 align="center">Hi 👋,  My name is Hasan</h3>
-<h5 align="center">Software Engineer</h5>
+<h5 align="center">Software Developer</h5>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasan-mia&style=flat-square" alt="hasan-mia" /> </p>
 
-🌱 I’m currently learning **Laravel, Django**
+🌱 I’m currently learning **Python**
 
 👨‍💻 All of my projects are available at **[Portfolio](https://hasanmia.vercel.app/) **
 
-💬 Ask me about **ReactJS,NextJS,NodeJS,Express,Prisma,Mongoose,MySQL,React-Native**
+💬 Ask me about **ReactJS,NextJS,NodeJS,NestJS,Express,Prisma,Mongoose,MySQL,React-Native**
 
 📫 How to reach me **info.hasanmiah@gmail.com**
 
