@@ -3,7 +3,7 @@
 <h5 align="center">Software Developer</h5>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasan-mia&style=flat-square" alt="hasan-mia" /> </p>
 
-🌱 I’m currently learning **Python**
+🌱 I’m currently Working **NestJS, Express, Next, React Native**
 
 👨‍💻 All of my projects are available at **[Portfolio](https://hasanmia.vercel.app/) **
 
