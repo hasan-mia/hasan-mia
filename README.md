@@ -10,7 +10,7 @@
 - 💬 Ask me about:  
   `Next.js`, `Node.js`, `MongoDB`, `MySQL`, `PostgreSQL`, `React Native`, `Golang`
 - 📫 Reach me at: **info.hasanmiah@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/14MoA4odovocrMOrGv0ClnOQOdk5umles/view)
+- 📄 [View My Resume](https://drive.google.com/file/d/1WzpiFo1NttbkIytSwDiLCwSkudjAX8ou/view)
 
 🛠️ **Tech Stack**
 
