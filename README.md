@@ -1,12 +1,12 @@
 <h3 align="center">Hi 👋, I'm Hasan</h3>
-<h4 align="center">Full-Stack Developer | MERN & Golang Enthusiast</h4>
+<h4 align="center">Software Developer | MERN & Golang Enthusiast</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hasan-mia&style=flat-square" alt="hasan-mia" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/hasan-mia/hasan-mia/blob/main/hasan.jpg" alt="Hasan Miah" width="200" />
+  <img src="https://komarev.com/ghpvc/?username=hasan-mia&style=flat-square" alt="hasan-mia" />
 </p>
 
 ---
