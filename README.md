@@ -1,17 +1,10 @@
+(https://github.com/hasan-mia/hasan-mia/blob/3cb5a9ae3de1679b85018826b5614745d1853c53/hasan.jpg)
 <h3 align="center">Hi 👋, I'm Hasan</h3>
-<h4 align="center">Software Developer | MERN & Golang Enthusiast</h4>
+<h5 align="center">Software Developer | MERN & Golang Enthusiast</h5>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hasan-mia&style=flat-square" alt="hasan-mia" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasan-mia&style=flat-square" alt="hasan-mia" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/hasan-mia/hasan-mia/blob/3cb5a9ae3de1679b85018826b5614745d1853c53/hasan.jpg" alt="hasan-mia" />
-</p>
-
-```bash
 🚀 **About Me**
-
+```
 🔭 Currently working with: **NestJS**, **Express.js**, **Next.js**, **React Native**
 🌱 Exploring: **Golang**, Clean Architecture, Microservices
 💬 Ask me about:  
