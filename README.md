@@ -30,7 +30,6 @@ Backend:    Node.js, Express, NestJS, Golang (learning)
 Database:   MySQL, PostgreSQL, MongoDB, Prisma, Mongoose
 DevOps:     Docker, Nginx, GitHub Actions, Railway, Vercel
 Tools:      VSCode, Postman, Figma, Jira, Git
-```
 
 <!--<div style="display: flex; align-items: flex-start;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="flex: 1;">
