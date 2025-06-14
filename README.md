@@ -13,12 +13,12 @@
 
 🚀 **About Me**
 
-- 🔭 Currently working with: **NestJS**, **Express.js**, **Next.js**, **React Native**
-- 🌱 Exploring: **Golang**, Clean Architecture, Microservices
-- 💬 Ask me about:  
-  `React`, `Next.js`, `Node.js`, `NestJS`, `Express`, `Prisma`, `MongoDB`, `MySQL`, `React Native`
-- 📫 Reach me at: **info.hasanmiah@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/14MoA4odovocrMOrGv0ClnOQOdk5umles/view)
+🔭 Currently working with: **NestJS**, **Express.js**, **Next.js**, **React Native**
+🌱 Exploring: **Golang**, Clean Architecture, Microservices
+💬 Ask me about:  
+  `Next.js`, `Node.js`, `MongoDB`, `MySQL`, `PostgreSQL`, `React Native`, `Golang`
+📫 Reach me at: **info.hasanmiah@gmail.com**
+📄 [View My Resume](https://drive.google.com/file/d/14MoA4odovocrMOrGv0ClnOQOdk5umles/view)
 
 ---
 
@@ -27,7 +27,7 @@
 ```yaml
 Frontend:   React, Next.js, React Native, Tailwind, Redux
 Backend:    Node.js, Express, NestJS, Golang (learning)
-Database:   MySQL, PostgreSQL, MongoDB, Prisma, Mongoose
+Database:   MySQL, PostgreSQL, MongoDB, Prisma, Mongoose,
 DevOps:     Docker, Nginx, GitHub Actions, Railway, Vercel
 Tools:      VSCode, Postman, Figma, Jira, Git
 ```
