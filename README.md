@@ -1,17 +1,36 @@
-![I am a mern stack developer](https://github.com/hasan-mia/hasan-mia/blob/3cb5a9ae3de1679b85018826b5614745d1853c53/hasan.jpg)
-<h3 align="center">Hi 👋,  My name is Hasan</h3>
-<h5 align="center">Software Developer</h5>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hasan-mia&style=flat-square" alt="hasan-mia" /> </p>
+<h3 align="center">Hi 👋, I'm Hasan</h3>
+<h4 align="center">Full-Stack Developer | MERN & Golang Enthusiast</h4>
 
-🌱 I’m currently Working **NestJS, Express, Next, React Native**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hasan-mia&style=flat-square" alt="hasan-mia" />
+</p>
 
-👨‍💻 All of my projects are available at **[Portfolio](https://hasanmia.vercel.app/) **
+<p align="center">
+  <img src="https://github.com/hasan-mia/hasan-mia/blob/main/hasan.jpg" alt="Hasan Miah" width="200" />
+</p>
 
-💬 Ask me about **ReactJS,NextJS,NodeJS,NestJS,Express,Prisma,Mongoose,MySQL,React-Native**
+---
 
-📫 How to reach me **info.hasanmiah@gmail.com**
+🚀 **About Me**
 
-📄 Know about my experiences **[CV](https://drive.google.com/file/d/14MoA4odovocrMOrGv0ClnOQOdk5umles/view)**
+- 🔭 Currently working with: **NestJS**, **Express.js**, **Next.js**, **React Native**
+- 🌱 Exploring: **Golang**, Clean Architecture, Microservices
+- 💬 Ask me about:  
+  `React`, `Next.js`, `Node.js`, `NestJS`, `Express`, `Prisma`, `MongoDB`, `MySQL`, `React Native`
+- 📫 Reach me at: **info.hasanmiah@gmail.com**
+- 📄 [View My Resume](https://drive.google.com/file/d/14MoA4odovocrMOrGv0ClnOQOdk5umles/view)
+
+---
+
+🛠️ **Tech Stack**
+
+```yaml
+Frontend:   React, Next.js, React Native, Tailwind, Redux
+Backend:    Node.js, Express, NestJS, Golang (learning)
+Database:   MySQL, PostgreSQL, MongoDB, Prisma, Mongoose
+DevOps:     Docker, Nginx, GitHub Actions, Railway, Vercel
+Tools:      VSCode, Postman, Figma, Jira, Git
+```
 
 <!--<div style="display: flex; align-items: flex-start;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="flex: 1;">
