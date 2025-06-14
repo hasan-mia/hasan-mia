@@ -1,4 +1,4 @@
-![I am a mern stack developer](https://github.com/hasan-mia/hasan-mia/blob/3cb5a9ae3de1679b85018826b5614745d1853c53/hasan.jpg)
+![I am a mern stack developer](https://github.com/hasan-mia/hasan-mia/blob/3cb5a9ae3de1679b85018826b5614745d1853c53/md-hasan-mia.png)
 <h3 align="center">Hi 👋, I'm Hasan</h3>
 <h5 align="center">Software Developer | MERN & Golang Enthusiast</h5>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasan-mia&style=flat-square" alt="hasan-mia" /> </p>
