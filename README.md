@@ -2,7 +2,7 @@
 <h3 align="center">Hi 👋, I'm Hasan</h3>
 <h5 align="center">Software Developer | MERN & Golang Enthusiast</h5>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasan-mia&style=flat-square" alt="hasan-mia" /> </p>
----
+
 🚀 **About Me**
 
 - 🔭 Currently working with: **NestJS**, **Express.js**, **Next.js**, **React Native**
@@ -11,7 +11,6 @@
   `Next.js`, `Node.js`, `MongoDB`, `MySQL`, `PostgreSQL`, `React Native`, `Golang`
 - 📫 Reach me at: **info.hasanmiah@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/14MoA4odovocrMOrGv0ClnOQOdk5umles/view)
----
 
 🛠️ **Tech Stack**
 
