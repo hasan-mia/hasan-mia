@@ -9,8 +9,7 @@
   <img src="https://github.com/hasan-mia/hasan-mia/blob/3cb5a9ae3de1679b85018826b5614745d1853c53/hasan.jpg" alt="hasan-mia" />
 </p>
 
----
-
+```bash
 🚀 **About Me**
 
 🔭 Currently working with: **NestJS**, **Express.js**, **Next.js**, **React Native**
@@ -19,8 +18,7 @@
   `Next.js`, `Node.js`, `MongoDB`, `MySQL`, `PostgreSQL`, `React Native`, `Golang`
 📫 Reach me at: **info.hasanmiah@gmail.com**
 📄 [View My Resume](https://drive.google.com/file/d/14MoA4odovocrMOrGv0ClnOQOdk5umles/view)
-
----
+```
 
 🛠️ **Tech Stack**
 
