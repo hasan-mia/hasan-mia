@@ -8,7 +8,7 @@
 - 🔭 Currently working with: **NestJS**, **Express.js**, **Next.js**, **React Native**
 - 🌱 Exploring: **Golang**, Clean Architecture, Microservices
 - 💬 Ask me about:  
-  `Next.js`, `Node.js`, `MongoDB`, `MySQL`, `PostgreSQL`, `React Native`, `Golang`
+  `Next.js`, `Node.js`, `MongoDB`, `MySQL`, `PostgreSQL`, `React Native`, `Python`,  `Golang`
 - 📫 Reach me at: **info.hasanmiah@gmail.com**
 - 📄 [View My Resume](https://docs.google.com/document/d/1tPHicZ4teCtXM9qbTpO96Qps6GTSypE5HT-3INarWwM/view?tab=t.0)
 
