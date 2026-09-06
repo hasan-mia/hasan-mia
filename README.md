@@ -16,7 +16,7 @@
 
 ```yaml
 Frontend:   React, Next.js, React Native, Tailwind, Redux
-Backend:    Node.js, Express, NestJS, Golang (learning)
+Backend:    Node.js, Express, NestJS, FastAPI, Golang (learning)
 Database:   MySQL, PostgreSQL, MongoDB, Prisma, Mongoose,
 DevOps:     Docker, Nginx, GitHub Actions, Railway, Vercel
 Tools:      VSCode, Postman, Figma, Jira, Git
